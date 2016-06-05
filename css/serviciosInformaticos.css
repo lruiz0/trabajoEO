@@ -1,0 +1,141 @@
+html{
+	background:url('../imagenes/colorful3.jpg') no-repeat;
+	background-size: cover;
+
+}
+body{
+	background-color: transparent !important;
+
+	font-family: 'Questrial', sans-serif !important;
+	color: #BFFBEE!important;
+}
+.container{
+	background-color: transparent !important;
+	
+}
+.thumbnail{
+	/*background: rgba(256, 256, 256, 0.3);*/
+	background: rgba(0, 0, 0, 0.4);
+	border: none;
+	font-size: 30px;
+	height: 550px;
+	max-width: 500px;
+	padding: 10px;
+	margin: 10px auto;
+
+}
+.caption{
+	color:white!important;
+font-family: 'Quicksand', sans-serif;
+height: 100px;
+
+
+}
+
+
+
+h1{
+	
+	font-family: 'Poiret One', cursive;
+	font-weight: bold;
+}
+h2{
+	font-family: 'Poiret One', cursive;
+font-size: 40px;
+	font-weight: bold;
+}
+
+
+.rojo{
+	color: #F24242!important;
+}
+.naranja{
+	color: #FFE179!important;
+}
+.verde{
+	color: #0CFFCE!important;
+}
+.azul{
+	color:#90EBFF!important;
+}
+.lila{
+	color:#F0CCFF!important;
+}
+
+header{
+	margin-bottom: 25px;
+}
+
+.navbar-brand span{
+font-size: 70px;
+font-family: 'Cabin Sketch', cursive;
+	font-weight: bold;
+	color: #8BFFF5;
+}
+
+.navbar-brand small{
+font-size: 35px;
+color:white;
+font-family: 'Sacramento', cursive;
+}
+
+
+.navbar, .navbar-default{
+	margin-top:45px!important;
+	margin-bottom:30px!important;
+	margin-left: 0px !important;
+	background-color: transparent;
+	border:none;
+
+}
+.nav, .navbar-nav{
+	float: right;
+}
+.nav, .navbar-nav li{
+	font-size: 28px;
+	color: white;
+	margin: 7px!important;
+}
+
+.nav, .navbar-nav li a{
+font-family: 'Quicksand', sans-serif;
+	color: white!important;
+}
+
+.nav, .navbar-nav li a:hover{
+
+	color: #FFF3AF!important;
+
+}
+.subApartado img{
+	float: right;
+	position: relative;
+	border: 1px solid white;
+
+}
+
+.apartado{
+	/*margin-bottom:50px!important;*/
+	background: rgba(0, 0, 0, 0.4);
+	padding: 20px;
+	border-radius: 5px;
+	color:white!important;
+width:100%;
+	/*float:right;*/
+
+	margin: 50px auto!important;
+
+}
+
+.subApartado{
+	margin-bottom: 50px;
+
+}
+.recuadro{
+	background-color: transparent;
+	border: 3px solid white;
+	text-align: center;
+	padding:20px;
+	font-size: 18px;
+	margin:30px;
+}
